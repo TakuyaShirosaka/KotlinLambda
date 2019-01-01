@@ -1,0 +1,679 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="91a7a263-be4e-4968-a468-048117d3788f" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/.gradle/" />
+    <ignored path="$PROJECT_DIR$/build/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/pre_so$lambdaHandler_TestBaseHandlerKt.ic" NAME="lambdaHandler.TestBaseHandlerKt Coverage Results" MODIFIED="1545737303409" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="206" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="pre_so" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="pre_so" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="pre_so" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/kotlin/BaseHandler.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="245">
+              <caret line="29" column="23" selection-start-line="29" selection-start-column="23" selection-end-line="29" selection-end-column="23" />
+              <folding>
+                <element signature="e#23#288#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+        <option value="Singleton" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/kotlin/Hello.kt" />
+        <option value="$PROJECT_DIR$/src/test/kotlin/FizzBuzz.kt" />
+        <option value="$PROJECT_DIR$/src/test/kotlin/FizzBuzzTest.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/Common/Routing.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/Handler/Abstract/AbstractFactory.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/Common/DynamoDB.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/Common/RequestJson.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/DynamoDB/Kobetsu_member/MemberStrategy.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/DynamoDB/old/DBStrategy.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/DynamoDB/old/DynamoDBClient.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/DynamoDB/old/Kobetsu_member/MemberStrategy.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/DynamoDB/old/DBStrategyFactory.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/DynamoDB/old/DBContext.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/Handler/ReportForm/ConcreteFactory/SearchFactory.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/DynamoDB/Abstract/AbstractDBHandler.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/DynamoDB/DynamoDBClient.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/DynamoDB/Abstract/AbstractDBFactory.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/Handler/Abstract/AbstractHandler.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/DynamoDB/StrategyFactoryで考えていたやつ/Kobetsu_member/MemberStrategy.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/BaseHandler.kt" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/DynamoDB/Kobetsu_Member/Kobetsu_MemberRouting.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/DynamoDB/AbstractFactory/AbstractDBFactory.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/Common/DynamoDBRouting.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/DynamoDB/Kobetsu_Member/Kobestu_MemberRouting.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/Handler/ReportForm/ConcreteHandler/SearchHandler.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/DynamoDB/Kobetsu_Member/ConcreteHandler/MemberSearch_Handler.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/Handler/Sample/ConcreteHandler/SearchHandler.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/DynamoDB/Kobetsu_Member/ConcreteFactory/MemberSearch_Factory.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/DynamoDB/Kobetsu_Member/ConcreteFactory/MemberSearchFactory.kt" />
+        <option value="$PROJECT_DIR$/src/test/kotlin/TestMemberStrategy.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/Handler/AbstractFactory/AbstractHandler.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/DynamoDB/Kobetsu_Member/ConcreteHandler/MemberSearchHandler.kt" />
+        <option value="$PROJECT_DIR$/src/test/kotlin/input.json" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/Handler/AbstractFactory/AbstractFactory.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/Common/HandlerRouting.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/Common/SampleRouting.kt" />
+        <option value="$PROJECT_DIR$/src/test/kotlin/TestRequestJson.kt" />
+        <option value="$PROJECT_DIR$/src/test/kotlin/TestBaseHandler.kt" />
+        <option value="$PROJECT_DIR$/src/test/kotlin/TestMemberSearchHandler.kt" />
+        <option value="$PROJECT_DIR$/src/test/kotlin/RunTest.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/DynamoDB/DBClient/DynamoDBClient.kt" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="135" />
+    <option name="y" value="165" />
+    <option name="width" value="1750" />
+    <option name="height" value="980" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="pre_so" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pre_so" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="pre_so" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pre_so" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pre_so" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pre_so" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="pre_so" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pre_so" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pre_so" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pre_so" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="DynamoDB" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pre_so" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pre_so" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="DynamoDB" type="462c0819:PsiDirectoryNode" />
+              <item name="DBClient" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546151198009" />
+    <property name="dynamic.classpath" value="true" />
+    <property name="last_opened_file_path" value="D:/" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="project.kotlinCompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\intelliJ\pre_so\src\test\kotlin" />
+      <recent name="D:\intelliJ\pre_so\src\main\kotlin\Common" />
+      <recent name="D:\intelliJ\pre_so\src\main\kotlin\DynamoDB\Kobetsu_Member" />
+      <recent name="D:\intelliJ\pre_so\src\main\kotlin\DynamoDB" />
+      <recent name="D:\intelliJ\pre_so\src\main\kotlin\Handler" />
+    </key>
+    <key name="CopyKotlinDeclarationDialog.RECENTS_KEY">
+      <recent name="DynamoDB.Kobetsu_Member.ConcreteHandler" />
+      <recent name="DynamoDB.Kobetsu_Member.ConcreteFactory" />
+      <recent name="" />
+    </key>
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="DynamoDB" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\intelliJ\pre_so\src\main\kotlin\Common" />
+      <recent name="D:\intelliJ\pre_so\src\main\kotlin\DynamoDB\old" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Kotlin.lambdaHandler.RunTestKt">
+    <configuration name="pre_so [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="pre_so [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="clean" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="lambdaHandler.RunTestKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="pre_so.test" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="lambdaHandler.RunTestKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lambdaHandler.TestBaseHandlerKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="pre_so.test" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="lambdaHandler.TestBaseHandlerKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lambdaHandler.TestMemberSearchHandlerKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="pre_so.test" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="lambdaHandler.TestMemberSearchHandlerKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lambdaHandler.FizzBuzzTest" type="org.spekframework.spek-jvm" factoryName="Spek - JVM" nameIsGenerated="true">
+      <module name="" />
+      <option name="target" value="spec" />
+      <option name="spec" value="lambdaHandler.FizzBuzzTest" />
+      <option name="vm-parameters" value="" />
+      <option name="program-parameters" value="" />
+      <option name="working-directory" value="$MODULE_WORKING_DIR$" />
+      <option name="alternative-jre-path" value="" />
+      <option name="pass-parent-envs" value="true" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Gradle.pre_so [build]" />
+      <item itemvalue="Gradle.pre_so [clean]" />
+      <item itemvalue="Kotlin.lambdaHandler.TestBaseHandlerKt" />
+      <item itemvalue="Kotlin.lambdaHandler.TestMemberSearchHandlerKt" />
+      <item itemvalue="Kotlin.lambdaHandler.RunTestKt" />
+      <item itemvalue="Spek - JVM.lambdaHandler.FizzBuzzTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.lambdaHandler.RunTestKt" />
+        <item itemvalue="Kotlin.lambdaHandler.TestMemberSearchHandlerKt" />
+        <item itemvalue="Kotlin.lambdaHandler.TestBaseHandlerKt" />
+        <item itemvalue="Gradle.pre_so [clean]" />
+        <item itemvalue="Gradle.pre_so [build]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="91a7a263-be4e-4968-a468-048117d3788f" name="Default Changelist" comment="" />
+      <created>1544019023542</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1544019023542</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="pre_so_[test] - 2018.12.08 at 19h 22m 18s.xml">
+      <configuration name="pre_so [test]" configurationId="GradleRunConfiguration" />
+    </history-entry>
+  </component>
+  <component name="TodoView" selected-index="1">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29798657" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.4986577" weight="0.3286119" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.83691275" weight="0.3286119" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49798658" visible="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.4966443" weight="0.3286119" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.16308725" side_tool="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Build" order="10" weight="0.3286119" />
+      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49798658" weight="0.3286119" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24966443" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Gradle" order="5" weight="0.15771812" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.3295302" />
+    </layout>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/Hello.kt" />
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/Handler/ReportForm/AFactory.kt" />
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/DynamoDB/old/DBStrategyFactory.kt" />
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/DynamoDB/old/DBContext.kt" />
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/DynamoDB/old/DBStrategy.kt" />
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/DynamoDB/old/Kobetsu_member/MemberStrategy.kt" />
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/DynamoDB/DynamoDBClient.kt" />
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/DynamoDB/StrategyFactoryで考えていたやつ/Kobetsu_member/MemberStrategy.kt" />
+    <entry file="file://$PROJECT_DIR$/src/test/kotlin/FizzBuzz.kt" />
+    <entry file="file://$PROJECT_DIR$/src/test/kotlin/FizzBuzzTest.kt" />
+    <entry file="file://$PROJECT_DIR$/build/reports/tests/test/index.html" />
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/DynamoDB/Kobetsu_Member/AbstractFactory/AbstractDBHandler.kt" />
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/DynamoDB/Kobetsu_Member/AbstractFactory/AbstractDBFactory.kt" />
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/DynamoDB/Kobetsu_Member/dynamoDBRouting.kt" />
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/DynamoDB/Kobetsu_Member/ConcreteFactory/MemberSearchFactory.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/Handler/AbstractFactory/AbstractHandler.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/Handler/AbstractFactory/AbstractFactory.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/Common/DynamoDBRouting.kt" />
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/Common/RequestJson.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="40" lean-forward="true" selection-start-line="24" selection-start-column="40" selection-end-line="24" selection-end-column="40" />
+          <folding>
+            <element signature="e#23#187#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/Common/Kobestu_MemberRouting.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="35" lean-forward="true" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/io/FileInputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="122" column="11" selection-start-line="122" selection-start-column="11" selection-end-line="122" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/io/PrintStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="803" column="16" selection-start-line="803" selection-start-column="16" selection-end-line="803" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/kotlin/output.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="225" selection-start-column="225" selection-end-column="225" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/kotlin/TestRequestJson.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/Handler/Sample/ConcreteFactory/SearchFactory.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="28" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/kotlin/TestMemberSearchHandler.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="41" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
+          <folding>
+            <element signature="e#23#73#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/Handler/Sample/ConcreteHandler/SearchHandler.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="35" column="31" selection-start-line="35" selection-start-column="31" selection-end-line="35" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/Common/SampleRouting.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="30" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/Common/HandlerRouting.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="16" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/DynamoDB/AbstractFactory/AbstractDBHandler.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="12" column="15" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
+          <folding>
+            <element signature="e#23#292#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/DynamoDB/Kobetsu_Member/ConcreteHandler/MemberSearchHandler.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="49" column="33" lean-forward="true" selection-start-line="49" selection-start-column="33" selection-end-line="49" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/DynamoDB/AbstractFactory/AbstractDBFactory.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="36" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/kotlin/input.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="10" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/kotlin/TestBaseHandler.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="16" lean-forward="true" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
+          <folding>
+            <element signature="e#23#288#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="13" column="24" lean-forward="true" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/kotlin/RunTest.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/DynamoDB/DBClient/DynamoDBClient.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="e#125#345#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/BaseHandler.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="29" column="23" selection-start-line="29" selection-start-column="23" selection-end-line="29" selection-end-column="23" />
+          <folding>
+            <element signature="e#23#288#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Kotlin</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Kotlin|test|pre_so</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.3.10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
